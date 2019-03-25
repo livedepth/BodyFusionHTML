@@ -1,0 +1,27 @@
+.download{
+	width: 100%;
+	height: 400px;
+}
+
+.download ul{
+	padding-top: 125px;
+	list-style: none;
+	width: 50%;
+	margin: 0 auto;
+}
+
+.download ul li{
+	float: left;
+	width: 50%;
+	text-align: center;
+}
+
+.download ul .android img{
+	width: 86px;
+	height: 100px;
+}
+
+.download ul .iphone img{
+	width: 333px;
+	height: 100px;
+}
